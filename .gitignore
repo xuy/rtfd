@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Specific to rtfd
+index.html
+index.md
+doc.list
+/
